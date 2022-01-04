@@ -1,8 +1,6 @@
 IDM Nano Wearable Shield License info
 ============================
 
-
-
 This design is a wearable shield for an Arduino Nano, operating at 3.3V. 
 https://idmwearables.club/ 
 
